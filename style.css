@@ -1,0 +1,21 @@
+h1{
+    color: bisque;
+    background-color: aqua;
+}
+.ninoi{
+    color: red;
+    background-color: black;
+}
+#nino{
+    color: black;
+    background-color: rgb(145, 40, 40);
+}
+table{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}
